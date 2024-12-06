@@ -2,7 +2,7 @@
 
 A powerful and intuitive Chrome extension that transforms how you read and research online. Highlight text in multiple colors, save automatically, and export to beautifully formatted PDFs.
 
-![Highlighter Plus Banner]([http://url/to/img.png](https://ibb.co/tZTRBkx))
+![Highlighter Plus Banner](https://www.imghippo.com/i/zyN5864sKA.png)
 ## ✨ Features
 
 - **🎨 Multiple Colors**: Choose from 5 carefully selected highlight colors:
