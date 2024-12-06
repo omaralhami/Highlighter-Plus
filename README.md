@@ -1,69 +1,111 @@
-# Chrome Web Store Listing Content
+# 🎨 Highlighter Plus
 
-## Extension Name
-Highlighter Plus - Text Highlighter & PDF Export
+A powerful and intuitive Chrome extension that transforms how you read and research online. Highlight text in multiple colors, save automatically, and export to beautifully formatted PDFs.
 
-## Short Description (up to 132 characters)
-Highlight text in multiple colors, save automatically, and export to PDF. Simple, fast, and privacy-focused.
+![Highlighter Plus Banner](store-assets/banner.png)
 
-## Detailed Description
-Highlighter Plus is your perfect companion for reading and researching online. Highlight important text in multiple colors, save automatically, and export to PDF with just a few clicks.
+## ✨ Features
 
-🎨 KEY FEATURES:
-• 5 Beautiful highlight colors (yellow, green, blue, pink, purple)
-• Simple floating toolbar appears when text is selected
-• Automatic saving - never lose your highlights
-• Export highlights to PDF
-• Works on any webpage
-• Privacy-focused - all data stored locally
+- **🎨 Multiple Colors**: Choose from 5 carefully selected highlight colors:
+  - Yellow
+  - Green
+  - Blue
+  - Pink
+  - Purple
 
-🚀 PERFECT FOR:
-• Students doing research
-• Professionals reviewing documents
-• Researchers collecting information
-• Anyone who loves organizing information
+- **📱 Smart Interface**
+  - Elegant floating toolbar appears when text is selected
+  - Context menu integration for quick highlighting
+  - Clean, distraction-free design
 
-✨ WHY CHOOSE HIGHLIGHTER PLUS:
-• Clean, intuitive interface
-• Performance optimized - works smoothly on large pages
-• No account required
-• 100% privacy - no data collection
-• Regular updates and support
+- **💾 Automatic Saving**
+  - All highlights automatically saved locally
+  - Persists across browser sessions
+  - No account required
 
-💡 HOW TO USE:
-1. Select any text on a webpage
-2. Choose your highlight color from the popup toolbar
-3. View your highlights anytime - they're automatically saved
-4. Export to PDF when needed
+- **📄 Professional PDF Export**
+  - Export highlights with page context
+  - Beautifully formatted output
+  - Custom filename generation
+  - One-click export
 
-🔒 PRIVACY POLICY:
-• All highlights are stored locally on your device
-• No personal information is collected
-• No data is transmitted to external servers
+- **🚀 Performance Optimized**
+  - Works smoothly on large pages
+  - Minimal memory footprint
+  - Fast and responsive
 
-💪 PERMISSIONS EXPLAINED:
-• Storage: To save your highlights locally
-• PDF Export: To create PDF documents
-• All URLs: To enable highlighting on any webpage
+- **🔒 Privacy Focused**
+  - All data stored locally
+  - No external servers
+  - No personal information collected
+  - No tracking or analytics
 
-Need help or have suggestions? Contact us at [omar.alhami@outlook.com]
+## 🎯 Perfect For
 
-## Category
-Productivity
+- Students doing research
+- Professionals reviewing documents
+- Researchers collecting information
+- Writers gathering references
+- Anyone who loves organizing information
 
-## Screenshots
-[Include 4-5 screenshots showing:]
-1. Main interface with text selection
-2. Color picker toolbar
-3. Saved highlights view
-4. PDF export feature
-5. Settings/options panel
+## 💡 How to Use
 
-## Promotional Images
-[Create promotional tiles showing:]
-1. Small Tile (440x280px)
-2. Large Tile (920x680px)
-3. Marquee (1400x560px)
+1. **Install**: Add Highlighter Plus from the Chrome Web Store
+2. **Select**: Click and drag to select any text on a webpage
+3. **Highlight**: Choose your color from the popup toolbar
+4. **Export**: Click the extension icon and select "Export to PDF"
 
-## Search Terms
-text highlighter, pdf export, study tool, research assistant, web highlighter 
+## ⌨️ Keyboard Shortcuts
+
+- `Esc`: Hide the highlight toolbar
+- `Right-click`: Access context menu for highlighting options
+
+## 🔧 Technical Details
+
+### Permissions Explained
+- `storage`: For saving highlights locally
+- `contextMenus`: For right-click menu integration
+- `tabs`: For PDF export functionality
+- `downloads`: For saving PDF files
+- `scripting`: For highlight manipulation
+
+### Browser Support
+- Google Chrome (v88+)
+- Chromium-based browsers (Edge, Brave, etc.)
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📝 Privacy Policy
+
+We take your privacy seriously:
+- All highlights are stored locally on your device
+- No data is collected or transmitted to external servers
+- No personal information is required or stored
+
+## 🆘 Support
+
+Having issues or suggestions? Please:
+1. Check our [FAQ](docs/FAQ.md)
+2. [Report a bug](https://github.com/only-mar/highlighter-plus/issues)
+3. [Contact support](mailto:omar.alhami@outlook.com)
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🌟 Version History
+
+- v1.0.0
+  - Initial release
+  - Basic highlighting functionality
+  - Multiple color support
+  - PDF export feature
+  - Local storage implementation
+
+---
+
+Made with ❤️ by [Omar Alhami](https://github.com/only-mar)
+
+[Buy me a coffee ☕](https://www.buymeacoffee.com/onlymar)
