@@ -106,4 +106,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Made with ❤️ by [Omar Alhami](https://github.com/only-mar)
 
-[Buy me a coffee ☕](https://www.buymeacoffee.com/onlymar)
+<a href="https://www.buymeacoffee.com/onlymar" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
+</a>
