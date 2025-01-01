@@ -1,6 +1,6 @@
 # 🎨 Highlighter Plus
 
-A powerful and intuitive Chrome extension that transforms how you read and research online. Highlight text in multiple colors, save automatically, and export to beautifully formatted PDFs.
+A powerful and intuitive Chrome extension that transforms how you read and research online. Highlight text in multiple colors.
 
 ## ✨ Features
 
@@ -20,12 +20,6 @@ A powerful and intuitive Chrome extension that transforms how you read and resea
   - All highlights automatically saved locally
   - Persists across browser sessions
   - No account required
-
-- **📄 Professional PDF Export**
-  - Export highlights with page context
-  - Beautifully formatted output
-  - Custom filename generation
-  - One-click export
 
 - **🚀 Performance Optimized**
   - Works smoothly on large pages
@@ -51,7 +45,6 @@ A powerful and intuitive Chrome extension that transforms how you read and resea
 1. **Install**: Add Highlighter Plus from the Chrome Web Store
 2. **Select**: Click and drag to select any text on a webpage
 3. **Highlight**: Choose your color from the popup toolbar
-4. **Export**: Click the extension icon and select "Export to PDF"
 
 ## ⌨️ Keyboard Shortcuts
 
@@ -64,7 +57,6 @@ A powerful and intuitive Chrome extension that transforms how you read and resea
 - `storage`: For saving highlights locally
 - `contextMenus`: For right-click menu integration
 - `tabs`: For PDF export functionality
-- `downloads`: For saving PDF files
 - `scripting`: For highlight manipulation
 
 ### Browser Support
@@ -99,7 +91,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   - Initial release
   - Basic highlighting functionality
   - Multiple color support
-  - PDF export feature
   - Local storage implementation
 
 ---
