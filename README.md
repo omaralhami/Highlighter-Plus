@@ -56,16 +56,11 @@ A powerful and intuitive Chrome extension that transforms how you read and resea
 ### Permissions Explained
 - `storage`: For saving highlights locally
 - `contextMenus`: For right-click menu integration
-- `tabs`: For PDF export functionality
 - `scripting`: For highlight manipulation
 
 ### Browser Support
 - Google Chrome (v88+)
 - Chromium-based browsers (Edge, Brave, etc.)
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📝 Privacy Policy
 
