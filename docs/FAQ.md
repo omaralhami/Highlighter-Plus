@@ -3,7 +3,7 @@
 ## 🎯 General Questions
 
 ### Q: What is Highlighter Plus?
-A: Highlighter Plus is a Chrome extension that lets you highlight text on any webpage in multiple colors, save highlights automatically, and export them to PDF format.
+A: Highlighter Plus is a Chrome extension that lets you highlight text on any webpage in multiple colors and save highlights automatically.
 
 ### Q: Is Highlighter Plus free?
 A: Yes, Highlighter Plus is completely free to use with all features included.
@@ -46,21 +46,7 @@ A: Yes, if you clear your browser data and include "extension data" in the clean
 A: The limit is based on Chrome's storage capacity for extensions (approximately 5MB). This typically allows for thousands of highlights.
 
 ### Q: Can I backup my highlights?
-A: Yes, you can:
-1. Export your highlights to PDF format
-2. Keep these PDFs as backups
-
-## 📄 PDF Export
-
-### Q: What information is included in the PDF export?
-A: The PDF export includes:
-- Page title and URL
-- All highlighted text with their colors
-- Timestamp of when the highlights were made
-- Page context for each highlight
-
-### Q: Can I customize the PDF format?
-A: Currently, the PDF format is standardized for optimal readability. Customization options may be added in future updates.
+A: Backup options may be added in future updates.
 
 ## 🔧 Troubleshooting
 
@@ -78,13 +64,6 @@ Common solutions:
 3. Try disabling and re-enabling the extension
 4. Clear extension storage and start fresh
 
-### Q: The PDF export isn't working
-Try these steps:
-1. Make sure you have at least one highlight on the page
-2. Check if Chrome has permission to download files
-3. Ensure you have sufficient disk space
-4. Try a different page if the current one is very large
-
 ## 🔒 Privacy & Security
 
 ### Q: Does Highlighter Plus collect my data?
@@ -97,9 +76,8 @@ A: No, Highlighter Plus works completely offline once installed.
 A: The extension requires:
 - Storage permission: To save highlights locally
 - All URLs permission: To work on any webpage
-- Downloads permission: For PDF export functionality
 
-## 🆘 Support
+## 🤖 Support
 
 ### Q: How do I report a bug?
 A: You can:
@@ -117,3 +95,4 @@ A: We regularly release updates with bug fixes and improvements. Major feature u
 ---
 
 Still have questions? Contact us at omar.alhami@outlook.com
+
