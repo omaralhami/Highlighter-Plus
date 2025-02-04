@@ -1,6 +1,10 @@
 # 🎨 Highlighter Plus
 
-A powerful and intuitive Chrome extension that transforms how you read and research online. Highlight text in multiple colors.
+> A powerful and intuitive Chrome extension that transforms how you read and research online. Highlight text in multiple colors.
+
+![image](https://github.com/user-attachments/assets/d9dadfd0-9b57-44ea-af0d-8f9821f52966)
+
+🌐 [Try it now](https://chromewebstore.google.com/detail/highlighter-plus/jacclkgeimefekmcpcefmbmiecdnbhaf)
 
 ## ✨ Features
 
@@ -76,9 +80,6 @@ Having issues or suggestions? Please:
 2. [Report a bug](https://github.com/only-mar/highlighter-plus/issues)
 3. [Contact support](mailto:omar.alhami@outlook.com)
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🌟 Version History
 
@@ -88,10 +89,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   - Multiple color support
   - Local storage implementation
 
----
 
-Made with ❤️ by [Omar Alhami](https://github.com/only-mar)
 
-<a href="https://www.buymeacoffee.com/onlymar" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
-</a>
+## 📄 License
+
+This project is licensed under the MIT License
+
+<div align="center">
+  
+**Made with ❤️ by Omar Alhami (Mar)**
+> Built with curiosity, caffeine, and late nights. If you like it, let's connect!
+
+[Discord](https://discord.gg/tr9BR9ZCrA) • [Instagram](https://www.instagram.com/16.72/) • [Buy me a coffee](https://buymeacoffee.com/onlymar)
+
+</div>
