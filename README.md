@@ -1,105 +1,62 @@
 # 🎨 Highlighter Plus
 
-> A powerful and intuitive Chrome extension that transforms how you read and research online. Highlight text in multiple colors.
+> A simple, powerful Chrome extension to highlight text in multiple colors while you read.
 
 ![image](https://github.com/user-attachments/assets/d9dadfd0-9b57-44ea-af0d-8f9821f52966)
 
 🌐 [Try it now](https://chromewebstore.google.com/detail/highlighter-plus/jacclkgeimefekmcpcefmbmiecdnbhaf)
 
-## ✨ Features
+## Features
 
-- **🎨 Multiple Colors**: Choose from 5 carefully selected highlight colors:
-  - Yellow
-  - Green
-  - Blue
-  - Pink
-  - Purple
+- 🎨 5 highlight colors: Yellow, Green, Blue, Pink, Purple  
+- 📱 Floating toolbar on text select  
+- Context menu integration  
+- 💾 Auto-save highlights locally  
+- 🚀 Fast, smooth, low memory use  
+- 🔒 Privacy-focused, no tracking  
 
-- **📱 Smart Interface**
-  - Elegant floating toolbar appears when text is selected
-  - Context menu integration for quick highlighting
-  - Clean, distraction-free design
+## Perfect for
 
-- **💾 Automatic Saving**
-  - All highlights automatically saved locally
-  - Persists across browser sessions
-  - No account required
+Students, pros, researchers, writers, or anyone who likes organizing info.
 
-- **🚀 Performance Optimized**
-  - Works smoothly on large pages
-  - Minimal memory footprint
-  - Fast and responsive
+## How to Use
 
-- **🔒 Privacy Focused**
-  - All data stored locally
-  - No external servers
-  - No personal information collected
-  - No tracking or analytics
+1. Install from Chrome Web Store  
+2. Select text on any page  
+3. Pick your highlight color from the popup  
 
-## 🎯 Perfect For
+## Keyboard Shortcuts
 
-- Students doing research
-- Professionals reviewing documents
-- Researchers collecting information
-- Writers gathering references
-- Anyone who loves organizing information
+- `Esc`: Hide toolbar  
+- `Right-click`: Open context menu  
 
-## 💡 How to Use
+## Tech & Permissions
 
-1. **Install**: Add Highlighter Plus from the Chrome Web Store
-2. **Select**: Click and drag to select any text on a webpage
-3. **Highlight**: Choose your color from the popup toolbar
+- Permissions: `storage`, `contextMenus`, `scripting`  
+- Works on Chrome 88+ and Chromium browsers  
 
-## ⌨️ Keyboard Shortcuts
+## Privacy
 
-- `Esc`: Hide the highlight toolbar
-- `Right-click`: Access context menu for highlighting options
+All highlights stay local. No data sent anywhere. No personal info stored.
 
-## 🔧 Technical Details
+## Support
 
-### Permissions Explained
-- `storage`: For saving highlights locally
-- `contextMenus`: For right-click menu integration
-- `scripting`: For highlight manipulation
+1. Check [FAQ](docs/FAQ.md)  
+2. Report bugs: [GitHub Issues](https://github.com/only-mar/highlighter-plus/issues)  
+3. Contact: omar.alhami@outlook.com  
 
-### Browser Support
-- Google Chrome (v88+)
-- Chromium-based browsers (Edge, Brave, etc.)
+## Version History
 
-## 📝 Privacy Policy
+- v1.0.0: Initial release with multi-color highlights and local saving  
 
-We take your privacy seriously:
-- All highlights are stored locally on your device
-- No data is collected or transmitted to external servers
-- No personal information is required or stored
+## License
 
-## 🆘 Support
-
-Having issues or suggestions? Please:
-1. Check our [FAQ](docs/FAQ.md)
-2. [Report a bug](https://github.com/only-mar/highlighter-plus/issues)
-3. [Contact support](mailto:omar.alhami@outlook.com)
-
-
-## 🌟 Version History
-
-- v1.0.0
-  - Initial release
-  - Basic highlighting functionality
-  - Multiple color support
-  - Local storage implementation
-
-
-
-## 📄 License
-
-This project is licensed under the MIT License
+MIT License
 
 <div align="center">
-  
-**Made with ❤️ by Omar Alhami (Mar)**
-> Built with curiosity, caffeine, and late nights. If you like it, let's connect!
 
-[Discord](https://discord.gg/xywrsneY8b) • [Instagram](https://www.instagram.com/16.72/) • [Buy me a coffee](https://buymeacoffee.com/onlymar)
+Made with ❤️ by mar (Omar Alhami)  
+> Built with curiosity, caffeine, and late nights.  
+Join the [Mar Terminal community](https://discord.gg/marx)
 
 </div>
