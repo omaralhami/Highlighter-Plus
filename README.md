@@ -4,7 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/d9dadfd0-9b57-44ea-af0d-8f9821f52966)
 
-🌐 [Try it now](https://chromewebstore.google.com/detail/highlighter-plus/jacclkgeimefekmcpcefmbmiecdnbhaf)
+🛒 [Live on Chrome Store](https://chromewebstore.google.com/detail/highlighter-plus/jacclkgeimefekmcpcefmbmiecdnbhaf)
 
 ## Features
 
