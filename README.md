@@ -8,12 +8,12 @@
 
 ## Features
 
-- 🎨 5 highlight colors: Yellow, Green, Blue, Pink, Purple  
-- 📱 Floating toolbar on text select  
-- Context menu integration  
-- 💾 Auto-save highlights locally  
-- 🚀 Fast, smooth, low memory use  
-- 🔒 Privacy-focused, no tracking  
+-  5 highlight colors: Yellow, Green, Blue, Pink, Purple  
+-  Floating toolbar on text select  
+-  Context menu integration  
+-  Auto-save highlights locally  
+-  Fast, smooth, low memory use  
+-  Privacy-focused, no tracking  
 
 ## Perfect for
 
